@@ -1,6 +1,6 @@
 # URLFinder
 
-URLFinder is a Java program that retrieves the HTML content of a given URL and recursively extracts URLs from the HTML until reached a certian depth. The program utilizes the Jsoup library for HTML parsing.
+URLFinder is a Java program that retrieves the HTML content of a given URL and recursively extracts URLs from the HTML until reached a certain depth. The program utilizes the Jsoup library for HTML parsing.
 
 ## Prerequisites
 
