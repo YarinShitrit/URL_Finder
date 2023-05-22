@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'com.example'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.jsoup:jsoup:1.16.1'
+}
+
+test {
+    useJUnitPlatform()
+}
